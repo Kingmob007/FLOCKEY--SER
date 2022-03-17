@@ -110,9 +110,9 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
     
-  [![SPlRlT-YT](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) | [![Kaztro-serv2](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) |  [![Amal-ser](https://github.com/Amal-ser.png?size=100)](https://github.com/SPlRlT-YT) | [![Amal-sir](https://github.com/Amal-ser.png?size=1000)](https://github.com/Amal-ser) 
+  [![SPlRlT-YT](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) | [![Kaztro-serv2](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) |  [![AMRUSIR](https://github.com/AMRUSIR.png?size=100)](https://github.com/AMRUSIR) | [![AMRUSIR](https://github.com/AMRUSIR.png?size=1000)](https://github.com/AMRUSIR) 
 ----|----|----|----
-[SPlRlT-YT](https://github.com/SPlRlT-YT) | [SPlRlT-YT](https://github.com/SPlRlT-YT) | [Amal-ser](https://github.com/SPlRlT-YT) | [AMALSER](https://github.com/Amal-ser) 
+[SPlRlT-YT](https://github.com/SPlRlT-YT) | [SPlRlT-YT](https://github.com/SPlRlT-YT) | [AMRUSIR](https://github.com/SPlRlT-YT) | [AMRUSIR](https://github.com/AMRUSIR) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
