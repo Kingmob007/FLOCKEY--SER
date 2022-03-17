@@ -9,8 +9,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://i.imgur.com/iQArLPp.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `Bᴏᴛ Nᴀᴍᴇ  Sᴘɪʀɪᴛ sᴇʀ Bᴏᴛ💞 
-
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `Bᴏᴛ Nᴀᴍᴇ  Sᴘɪʀɪᴛ sᴇʀ💞 
 ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917994093863
 
 sᴘɪʀɪᴛ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4
